@@ -38,7 +38,7 @@ if not st.session_state.user:
 
     # --- CAMBIAR ESTA URL POR LA TUYA ---
     # Ejemplo: "https://mi-proyecto.streamlit.app"
-    redirect_url = "TU_URL_DE_STREAMLIT" 
+    redirect_url = "https://revmkt.streamlit.app" 
     
     # Generamos la URL de Google Auth
     try:
